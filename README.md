@@ -40,3 +40,7 @@ Funções de repetição: Para calcular e exibir os múltiplos do número inseri
 
 ✏️ Insira um número no campo indicado e veja a tabuada sendo gerada instantaneamente.
 
+🌍 Acesse sem clonar
+
+Se preferir, você pode acessar o projeto diretamente pela Vercel através deste link: https://gerador-de-tabuada-chi.vercel.app/
+
