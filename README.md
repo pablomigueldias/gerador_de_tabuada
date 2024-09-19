@@ -12,6 +12,8 @@ Gerador de Tabuada
 
 ♻️ Implementa loops para gerar e exibir os resultados de forma eficiente.
 
+📱 Responsivo: O layout foi adaptado para garantir que a exibição da tabuada funcione bem em diferentes tamanhos de tela, incluindo dispositivos móveis.
+
 🚀 Tecnologias Utilizadas
 
 HTML: Estrutura básica da página.
