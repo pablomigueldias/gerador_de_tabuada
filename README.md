@@ -3,12 +3,17 @@ Gerador de Tabuada
 🎯 Objetivo: Este projeto foi desenvolvido com o objetivo de praticar e consolidar conceitos fundamentais do JavaScript, como manipulação do DOM, eventos e funções de repetição.
 
 ⚙️ Funcionalidades
+
 🔢 Gera a tabuada de um número informado pelo usuário.
+
 🖥️ Atualiza a interface dinamicamente utilizando o DOM.
+
 🖱️ Utiliza eventos para capturar a interação do usuário.
+
 ♻️ Implementa loops para gerar e exibir os resultados de forma eficiente.
 
 🚀 Tecnologias Utilizadas
+
 HTML: Estrutura básica da página.
 CSS: Estilização simples para a interface.
 JavaScript: Manipulação do DOM, criação de eventos e repetição para a geração da tabuada.
