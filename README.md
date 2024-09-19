@@ -15,8 +15,11 @@ Gerador de Tabuada
 🚀 Tecnologias Utilizadas
 
 HTML: Estrutura básica da página.
+
 CSS: Estilização simples para a interface.
+
 JavaScript: Manipulação do DOM, criação de eventos e repetição para a geração da tabuada.
+
 
 📚 Propósito do Projeto
 
