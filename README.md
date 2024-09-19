@@ -30,6 +30,10 @@ Eventos: Para captar as ações do usuário e gerar a tabuada no momento adequad
 Funções de repetição: Para calcular e exibir os múltiplos do número inserido pelo usuário.
 
 🛠️ Como utilizar
+
 ⚡ Clone o repositório.
+
 🌐 Abra o arquivo index.html no seu navegador.
+
 ✏️ Insira um número no campo indicado e veja a tabuada sendo gerada instantaneamente.
+
