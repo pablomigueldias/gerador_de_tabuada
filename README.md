@@ -26,8 +26,11 @@ JavaScript: Manipulação do DOM, criação de eventos e repetição para a gera
 Este projeto foi criado para aprimorar o entendimento e a prática de alguns dos principais comandos do JavaScript, como:
 
 DOM (Document Object Model): Para manipular os elementos da página e exibir dinamicamente os resultados.
+
 Eventos: Para captar as ações do usuário e gerar a tabuada no momento adequado.
+
 Funções de repetição: Para calcular e exibir os múltiplos do número inserido pelo usuário.
+
 
 🛠️ Como utilizar
 
