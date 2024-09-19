@@ -2,7 +2,9 @@
 const numeroInput = document.querySelector("#numero");
 const multiplicadorInput = document.querySelector("#multiplicador");
 const inputCalcular = document.querySelector(".multiplicacao");
+const inputResetar = document.querySelector(".resetar");
 const tabelaMultiplicacao = document.querySelector(".tabela-multiplicacao");
+const botaoAtualizar = document.querySelector("#btn-atualizar");
 
 // Função
 
@@ -10,7 +12,7 @@ const criarTabela = (numero, numero2) => {
   const infoCalcular = document.querySelector("p");
   infoCalcular.innerHTML = "";
 
-  for (i = 1; i <= numero2; i++) {
+  for (let i = 1; i <= numero2; i++) {
     const resultado = numero * i;
 
     const template = `<div class="linha">
@@ -29,6 +31,8 @@ const criarTabela = (numero, numero2) => {
   infoCalcular.innerHTML = `A Tabuada do ${numero}`;
 };
 
+const resetar = () => {};
+
 // Seleção de Eventos
 
 inputCalcular.addEventListener("submit", (e) => {
@@ -40,4 +44,8 @@ inputCalcular.addEventListener("submit", (e) => {
   if (!numero1 || !numero2) return;
 
   criarTabela(numero1, numero2);
+});
+
+botaoAtualizar.addEventListener("click", () => {
+  location.reload();
 });
